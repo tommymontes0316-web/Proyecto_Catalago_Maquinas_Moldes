@@ -1,2 +1,2 @@
 # Proyecto_Catalago_Maquinas_Moldes
-Hecho por:
+Hecho por: Tomas Montes, Juan Esteban Martinez, Santiago Medina, Jacobo Vargas
